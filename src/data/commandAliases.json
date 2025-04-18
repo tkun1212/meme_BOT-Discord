@@ -1,0 +1,18 @@
+{
+    "ping": ["p", "ping"],
+    "ban": ["ban"],
+    "kick": ["k", "kick"],
+    "dice": ["d", "dice"],
+    "help": ["h", "help"],
+    "role": ["r", "role"],
+    "v_kick": ["vk", "v_kick"],
+    "user_i": ["ui", "u_info"],
+    "server_i": ["si", "s_info"],
+    "mute": ["m", "mute"],
+    "del": ["rm", "del"],
+    "balance":["bal","balance"],
+    "bj":["blackjack","bj"],
+    "give-money":["give","give_money"],
+    "top":["top"],
+    "work":["w","work"]
+}
